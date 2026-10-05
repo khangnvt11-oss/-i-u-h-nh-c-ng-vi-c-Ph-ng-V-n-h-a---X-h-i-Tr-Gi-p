@@ -1,0 +1,6 @@
+{
+  "name": "TRÀ GIÁP TASK V4 - Điều hành tiến độ Phòng VH_XH Trà Giáp",
+  "description": "Hệ thống điều hành tiến độ giao việc Bộ điều hành 6 rõ Phòng VH_XH Trà Giáp - Bản quyền Nguyễn Văn Thạnh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
